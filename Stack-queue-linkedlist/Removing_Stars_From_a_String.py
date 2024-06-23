@@ -10,4 +10,4 @@ def removeStars(self, s):
         else:
             if items:
                 items.pop()
-    return ''.join(items)   
+    return ''.join(items)
